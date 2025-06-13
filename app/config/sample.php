@@ -1,10 +1,10 @@
 <?php
 return [
-    'host'  =>  "",
+    'host'  =>  "127.0.0.1",
     'port'  =>  "",
-    'name'  =>  "",
-    'user'  =>  "",
+    'name'  =>  "u769376327_farrapo",
+    'user'  =>  "root",
     'pass'  =>  "",
-    'type'  =>  "sqlite",
+    'type'  =>  "mysql",
     'prep'  =>  "1"
 ];

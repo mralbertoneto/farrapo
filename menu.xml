@@ -1,4 +1,17 @@
 <menu>
+    <menuitem label='Geral'>
+     <icon>fas:sliders fa-fw</icon>
+        <menu>
+                <menuitem label='Kanban'>
+                    <icon>fas:tachometer-alt fa-fw</icon>
+                    <action>TarefaKanbanView</action>
+                </menuitem>
+                <menuitem label='TarefaList'>
+                    <icon>fas:tachometer-alt fa-fw</icon>
+                    <action>TarefaList</action>
+                </menuitem>
+        </menu>
+    </menuitem>
     <menuitem label='_t{Administration}'>
         <icon>fas:sliders fa-fw</icon>
         <menu>
